@@ -48,7 +48,7 @@ Each notebook is:
 ### 4️⃣ Graph Transformers
 
 * 📌 Focus: Transformer architectures applied to graph-structured data
-* 🔗 Colab: https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-I4Whi
+* 🔗 Colab: https://colab.research.google.com/drive/1un6v8zNLzjH526qlF0DaIrkTleipFbeZ?usp=sharing
 * 🎥 Video: *(add your link)*
 
 ---
