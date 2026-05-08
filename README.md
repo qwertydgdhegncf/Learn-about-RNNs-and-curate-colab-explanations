@@ -24,7 +24,7 @@ Each notebook is:
 ### 1️⃣ RNN & LSTM
 
 * 📌 Focus: Sequence modeling using Recurrent Neural Networks and LSTMs
-* 🔗 Colab: https://colab.research.google.com/drive/1uGPf1pUz_P0JllpBqcPOJyHikmvO8uV2
+* 🔗 Colab: https://colab.research.google.com/drive/1ssdwDCo36HQf3OmIXtNCyYnKY2jjb787?usp=sharing
 * 🎥 Video: *(add your link)*
 
 ---
