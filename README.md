@@ -49,7 +49,7 @@ Each notebook is:
 
 * 📌 Focus: Transformer architectures applied to graph-structured data
 * 🔗 Colab: https://colab.research.google.com/drive/1un6v8zNLzjH526qlF0DaIrkTleipFbeZ?usp=sharing
-* 🎥 Video: *(add your link)*
+* 🎥 Video: https://youtu.be/Oc-lfokEuPQ
 
 ---
 
