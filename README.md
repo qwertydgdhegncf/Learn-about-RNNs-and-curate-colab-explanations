@@ -41,7 +41,7 @@ Each notebook is:
 
 * 📌 Focus: Transformer-based models applied to image classification
 * 🔗 Colab: https://colab.research.google.com/drive/1PKq_LBmuUr62mGNgG0CetarZ-tQwLe0p?usp=sharing
-* 🎥 Video: *(add your link)*
+* 🎥 Video: https://youtu.be/0YNZdEmmxPQ
 
 ---
 
