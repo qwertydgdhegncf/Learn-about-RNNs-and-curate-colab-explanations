@@ -32,7 +32,7 @@ Each notebook is:
 ### 2️⃣ Natural Language Processing (NLP)
 
 * 📌 Focus: Text processing, tokenization, embeddings, and NLP pipelines
-* 🔗 Colab: https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF
+* 🔗 Colab: https://colab.research.google.com/drive/1I4T4TNOtdHppBIFtITjUlz4rJ1UwTRbY?usp=sharing
 * 🎥 Video: *(add your link)*
 
 ---
