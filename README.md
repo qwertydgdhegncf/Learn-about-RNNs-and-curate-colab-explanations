@@ -40,7 +40,7 @@ Each notebook is:
 ### 3️⃣ Vision Transformers (ViT)
 
 * 📌 Focus: Transformer-based models applied to image classification
-* 🔗 Colab: https://colab.research.google.com/drive/1IQp0RU4w7DXRKILITyYgYFLMntFvrvdx
+* 🔗 Colab: https://colab.research.google.com/drive/1PKq_LBmuUr62mGNgG0CetarZ-tQwLe0p?usp=sharing
 * 🎥 Video: *(add your link)*
 
 ---
